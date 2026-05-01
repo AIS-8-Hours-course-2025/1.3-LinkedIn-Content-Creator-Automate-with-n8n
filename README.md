@@ -32,6 +32,11 @@ flowchart TD
     E --> F[6. Update Sheet with Draft Post]
     F --> G[7. Manually Post on LinkedIn]
 ```
+---
+
+[![Watch the Project](https://raw.githubusercontent.com/AIS-8-Hours-course-2025/1.3-LinkedIn-Content-Creator-Automate-with-n8n/main/Thumbnail.png)](https://www.youtube.com/watch?v=4PbesT-eXI4)
+
+---
 
 ## ⚙️ Automated Workflow Steps (n8n)
 
